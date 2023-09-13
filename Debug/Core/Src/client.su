@@ -1,0 +1,4 @@
+../Core/Src/client.c:26:6:client_init	16	static
+../Core/Src/client.c:31:6:client_receive_restart	8	static
+../Core/Src/client.c:41:6:client_receive_callback	16	static
+../Core/Src/client.c:54:6:client_transmit_routine	8	static

@@ -1,0 +1,16 @@
+../Core/Src/lora.c:33:6:lora_init	1
+../Core/Src/lora.c:46:6:lora_set_mode	5
+../Core/Src/lora.c:71:6:lora_read_model_data	1
+../Core/Src/lora.c:86:6:lora_receive_callback	5
+../Core/Src/lora.c:102:6:lora_set_ADDH	1
+../Core/Src/lora.c:106:6:lora_set_ADDL	1
+../Core/Src/lora.c:110:6:lora_set_speed	1
+../Core/Src/lora.c:114:6:lora_set_channel	1
+../Core/Src/lora.c:118:6:lora_set_option	1
+../Core/Src/lora.c:122:6:lora_save_param	1
+../Core/Src/lora.c:135:6:lora_serial_transmit	1
+../Core/Src/lora.c:141:6:lora_clear_buffer	2
+../Core/Src/lora.c:148:6:lora_complete_task	4
+../Core/Src/lora.c:161:6:lora_receive_routine	2
+../Core/Src/lora.c:171:6:lora_wireless_transmit_routine	2
+../Core/Src/lora.c:201:6:lora_decode_gps	1
